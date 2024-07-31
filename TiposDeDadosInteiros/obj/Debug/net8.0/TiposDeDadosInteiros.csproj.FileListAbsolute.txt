@@ -1,0 +1,14 @@
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\bin\Debug\net8.0\TiposDeDadosInteiros.exe
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\bin\Debug\net8.0\TiposDeDadosInteiros.deps.json
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\bin\Debug\net8.0\TiposDeDadosInteiros.runtimeconfig.json
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\bin\Debug\net8.0\TiposDeDadosInteiros.dll
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\bin\Debug\net8.0\TiposDeDadosInteiros.pdb
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.AssemblyInfoInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.AssemblyInfo.cs
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.csproj.CoreCompileInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.dll
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\obj\Debug\net8.0\refint\TiposDeDadosInteiros.dll
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.pdb
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.genruntimeconfig.cache
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosInteiros\obj\Debug\net8.0\ref\TiposDeDadosInteiros.dll

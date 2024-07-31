@@ -1,0 +1,14 @@
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\bin\Debug\net8.0\TiposDeDadosDePontoFlutuante.exe
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\bin\Debug\net8.0\TiposDeDadosDePontoFlutuante.deps.json
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\bin\Debug\net8.0\TiposDeDadosDePontoFlutuante.runtimeconfig.json
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\bin\Debug\net8.0\TiposDeDadosDePontoFlutuante.dll
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\bin\Debug\net8.0\TiposDeDadosDePontoFlutuante.pdb
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\obj\Debug\net8.0\TiposDeDadosDePontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\obj\Debug\net8.0\TiposDeDadosDePontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\obj\Debug\net8.0\TiposDeDadosDePontoFlutuante.AssemblyInfo.cs
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\obj\Debug\net8.0\TiposDeDadosDePontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\obj\Debug\net8.0\TiposDeDadosDePontoFlutuante.dll
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\obj\Debug\net8.0\refint\TiposDeDadosDePontoFlutuante.dll
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\obj\Debug\net8.0\TiposDeDadosDePontoFlutuante.pdb
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\obj\Debug\net8.0\TiposDeDadosDePontoFlutuante.genruntimeconfig.cache
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosDePontoFlutuante\obj\Debug\net8.0\ref\TiposDeDadosDePontoFlutuante.dll

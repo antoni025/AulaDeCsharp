@@ -1,0 +1,14 @@
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\bin\Debug\net8.0\TiposDeDadosNaoNumericos.exe
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\bin\Debug\net8.0\TiposDeDadosNaoNumericos.deps.json
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\bin\Debug\net8.0\TiposDeDadosNaoNumericos.runtimeconfig.json
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\bin\Debug\net8.0\TiposDeDadosNaoNumericos.dll
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\bin\Debug\net8.0\TiposDeDadosNaoNumericos.pdb
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\obj\Debug\net8.0\TiposDeDadosNaoNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\obj\Debug\net8.0\TiposDeDadosNaoNumericos.AssemblyInfoInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\obj\Debug\net8.0\TiposDeDadosNaoNumericos.AssemblyInfo.cs
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\obj\Debug\net8.0\TiposDeDadosNaoNumericos.csproj.CoreCompileInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\obj\Debug\net8.0\TiposDeDadosNaoNumericos.dll
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\obj\Debug\net8.0\refint\TiposDeDadosNaoNumericos.dll
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\obj\Debug\net8.0\TiposDeDadosNaoNumericos.pdb
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\obj\Debug\net8.0\TiposDeDadosNaoNumericos.genruntimeconfig.cache
+C:\Users\antonio.aabarbosa\source\repos\TiposDeDados\TiposDeDadosNaoNumericos\obj\Debug\net8.0\ref\TiposDeDadosNaoNumericos.dll
